@@ -1,0 +1,8 @@
+Customer ID | Name | GENDER | Age | Country | Income ($)
+101 | Alice | F | 25 | india | 40000
+102 | bob | m | 30 | INDIA | 52000
+103 | Charlie | Male | NaN | Usa | 47000
+104 | DAVID | male | 28 | usa | 50000
+101 | Alice | f | 25 | India | 40000
+106 | Eva | Female | 22 | united states | NaN
+107 | Frank | M |  | US | 55000

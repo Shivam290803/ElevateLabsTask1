@@ -1,0 +1,6 @@
+customer_id,name,gender,age,country,income_($)
+101, Alice ,female,25, india , 40000
+102, bob ,male,30, INDIA , 52000
+104, DAVID ,male,28, usa , 50000
+101, Alice ,female,25, India , 40000
+106, Eva ,female,22, united states , NaN

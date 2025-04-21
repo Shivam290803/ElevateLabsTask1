@@ -1,4 +1,4 @@
-#Data Cleaning Script for Mall Customer Data
+Data Cleaning Script for Mall Customer Data
 Overview
 This script performs data cleaning on a raw dataset of mall customer data. The dataset is read from a CSV file, cleaned, and saved as a new cleaned dataset. The script handles missing values, duplicates, and standardizes various columns, ensuring the data is ready for analysis.
 
